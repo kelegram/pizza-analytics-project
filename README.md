@@ -160,7 +160,7 @@
 
 ## 📷 Dashboard Preview
 
-🔗<img width="1093" height="648" alt="Image" src="https://github.com/user-attachments/assets/e9d95451-0e17-4333-bc7b-6f4f2b68314d" />
+<img width="1117" height="666" alt="Image" src="https://github.com/user-attachments/assets/0a09372b-e9e4-4a55-9322-976b45359868" />
 
 
 ---
